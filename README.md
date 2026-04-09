@@ -13,9 +13,9 @@ I built this terminal to bridge the gap between a standard BI dashboard and a li
 ## 📸 Dashboard Previews
 
 *(Note: Add your final screenshots here by dragging and dropping them into the GitHub editor)*
-* **Page 1: Global Market Overview:** <img src="images/Market Overview.png" width="800">
-* **Page 2: US Market Intelligence:** `[Insert Screenshot 2]`
-* **Page 3: NSE Index Tracker:** `[Insert Screenshot 3]`
+* **Page 1: Global Market Overview:** <img src="Images/Market_Overview.png" width="800">
+* **Page 2: NSE Index Tracker:** <img src="Images/NSE_Index_Tracker.png.png" width="800">
+* **Page 3: US Market Intelligence:** <img src="Images/US_Market_Intelligence.png" width="800">
 
 ---
 
